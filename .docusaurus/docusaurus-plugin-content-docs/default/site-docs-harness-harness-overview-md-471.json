@@ -1,0 +1,24 @@
+{
+  "id": "harness/harness-overview",
+  "title": "harness-overview",
+  "description": "",
+  "source": "@site/docs/harness/harness-overview.md",
+  "sourceDirName": "harness",
+  "slug": "/harness/harness-overview",
+  "permalink": "/docs/harness/harness-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/harness/harness-overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "throttle-bodies",
+    "permalink": "/docs/fueling/throttle-bodies"
+  },
+  "next": {
+    "title": "ignition-coils",
+    "permalink": "/docs/ignition/ignition-coils"
+  }
+}

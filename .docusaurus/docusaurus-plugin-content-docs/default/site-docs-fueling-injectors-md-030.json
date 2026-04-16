@@ -1,0 +1,24 @@
+{
+  "id": "fueling/injectors",
+  "title": "injectors",
+  "description": "",
+  "source": "@site/docs/fueling/injectors.md",
+  "sourceDirName": "fueling",
+  "slug": "/fueling/injectors",
+  "permalink": "/docs/fueling/injectors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/fueling/injectors.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fuel-lines",
+    "permalink": "/docs/fueling/fuel-lines"
+  },
+  "next": {
+    "title": "throttle-bodies",
+    "permalink": "/docs/fueling/throttle-bodies"
+  }
+}

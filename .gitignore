@@ -1,20 +1,117 @@
-# Dependencies
-/node_modules
+# -------------------------
 
-# Production
-/build
+# Node / Docusaurus
 
-# Generated files
-.docusaurus
-.cache-loader
+# -------------------------
 
-# Misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+node_modules/
+
+build/
+
+.cache/
+
+.temp/
+
+
+
+# -------------------------
+
+# Logs
+
+# -------------------------
 
 npm-debug.log*
+
 yarn-debug.log*
+
 yarn-error.log*
+
+pnpm-debug.log*
+
+*.log
+
+
+
+# -------------------------
+
+# OS / Editor junk
+
+# -------------------------
+
+.DS_Store
+
+Thumbs.db
+
+*.swp
+
+*.swo
+
+
+
+# -------------------------
+
+# Environment files
+
+# (If you ever add API keys or secrets)
+
+# -------------------------
+
+.env
+
+.env.local
+
+.env.development
+
+.env.production
+
+.env.test
+
+
+
+# -------------------------
+
+# SSH keys (just in case)
+
+# These should NEVER be in your repo
+
+# -------------------------
+
+*.pem
+
+*.key
+
+id_rsa
+
+id_rsa.pub
+
+id_ed25519
+
+id_ed25519.pub
+
+
+
+# -------------------------
+
+# System files
+
+# -------------------------
+
+*.pid
+
+*.seed
+
+*.pid.lock
+
+
+
+# -------------------------
+
+# Nginx / server configs
+
+# (Your VPS config should NOT be in the repo)
+
+# -------------------------
+
+/etc/nginx/
+
+

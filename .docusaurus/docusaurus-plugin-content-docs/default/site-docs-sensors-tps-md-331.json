@@ -1,0 +1,24 @@
+{
+  "id": "sensors/tps",
+  "title": "tps",
+  "description": "",
+  "source": "@site/docs/sensors/tps.md",
+  "sourceDirName": "sensors",
+  "slug": "/sensors/tps",
+  "permalink": "/docs/sensors/tps",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/sensors/tps.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "o2-sensor",
+    "permalink": "/docs/sensors/o2-sensor"
+  },
+  "next": {
+    "title": "common-issues",
+    "permalink": "/docs/troubleshooting/common-issues"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ecu-setup/ft550-basics",
+  "title": "ft550-basics",
+  "description": "",
+  "source": "@site/docs/ecu-setup/ft550-basics.md",
+  "sourceDirName": "ecu-setup",
+  "slug": "/ecu-setup/ft550-basics",
+  "permalink": "/docs/ecu-setup/ft550-basics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ecu-setup/ft550-basics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "fuel-lines",
+    "permalink": "/docs/fueling/fuel-lines"
+  }
+}

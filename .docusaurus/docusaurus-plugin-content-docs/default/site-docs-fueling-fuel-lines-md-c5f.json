@@ -1,0 +1,24 @@
+{
+  "id": "fueling/fuel-lines",
+  "title": "fuel-lines",
+  "description": "",
+  "source": "@site/docs/fueling/fuel-lines.md",
+  "sourceDirName": "fueling",
+  "slug": "/fueling/fuel-lines",
+  "permalink": "/docs/fueling/fuel-lines",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/fueling/fuel-lines.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ft550-basics",
+    "permalink": "/docs/ecu-setup/ft550-basics"
+  },
+  "next": {
+    "title": "injectors",
+    "permalink": "/docs/fueling/injectors"
+  }
+}

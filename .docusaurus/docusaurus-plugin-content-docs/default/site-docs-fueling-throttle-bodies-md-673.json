@@ -1,0 +1,24 @@
+{
+  "id": "fueling/throttle-bodies",
+  "title": "throttle-bodies",
+  "description": "",
+  "source": "@site/docs/fueling/throttle-bodies.md",
+  "sourceDirName": "fueling",
+  "slug": "/fueling/throttle-bodies",
+  "permalink": "/docs/fueling/throttle-bodies",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/fueling/throttle-bodies.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "injectors",
+    "permalink": "/docs/fueling/injectors"
+  },
+  "next": {
+    "title": "harness-overview",
+    "permalink": "/docs/harness/harness-overview"
+  }
+}
