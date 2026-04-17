@@ -110,7 +110,7 @@ const config = {
             items: [
               {
                 label: 'ECU Conversion',
-                to: '/ecu-conversion',
+                to: 'docs/ecu-conversion',
               },
             ],
           },
