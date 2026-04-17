@@ -1,5 +1,5 @@
 ---
-id: introduction
+id: intro
 title: Project Introduction
 sidebar_position: 1
 ---

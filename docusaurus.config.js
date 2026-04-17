@@ -75,7 +75,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'RC51',
+        title: '',
         logo: {
           alt: 'RC51 Site Logo',
           src: 'img/logo.png',
@@ -89,7 +89,7 @@ const config = {
           },
           {to: '/blog', label: 'Modifications', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/babichhunter/',
             label: 'GitHub',
             position: 'right',
           },
