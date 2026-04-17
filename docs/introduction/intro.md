@@ -1,6 +1,6 @@
 ---
 id: introduction
-title: RC51 ECU Conversion – Introduction
+title: Project Introduction
 sidebar_position: 1
 ---
 
