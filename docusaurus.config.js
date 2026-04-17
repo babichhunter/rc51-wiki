@@ -78,7 +78,7 @@ const config = {
         title: 'RC51',
         logo: {
           alt: 'RC51 Site Logo',
-          src: '',
+          src: 'img/logo.png',
         },
         items: [
           {
