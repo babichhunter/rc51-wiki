@@ -88,7 +88,13 @@ const config = {
             position: 'left',
             label: 'ECU Conversion',
           },
-          {to: '/blog', label: 'Modifications', position: 'left'},
+          {
+            type: 'docSidebar',
+            sidebarId: 'modificationsSidebar',
+            position: 'left',
+            label: 'Modifications',
+          },
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/babichhunter/',
             label: 'GitHub',
