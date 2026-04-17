@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "overview",
-    "permalink": "/docs/intro/overview"
+    "title": "ignition-coils",
+    "permalink": "/docs/ignition/ignition-coils"
   },
   "next": {
     "title": "o2-sensor",

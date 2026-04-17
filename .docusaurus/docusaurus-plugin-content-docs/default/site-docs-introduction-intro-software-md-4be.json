@@ -1,0 +1,29 @@
+{
+  "id": "introduction/software-tools",
+  "title": "Software Tools Used",
+  "description": "This page outlines the software tools I used throughout the ECU integration and documentation process. These tools helped with everything from 3D scanning and modeling to wire diagram creation and symbol design.",
+  "source": "@site/docs/introduction/intro-software.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/software-tools",
+  "permalink": "/docs/introduction/software-tools",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/introduction/intro-software.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "software-tools",
+    "title": "Software Tools Used",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Project Resources",
+    "permalink": "/docs/introduction/project-resources"
+  },
+  "next": {
+    "title": "ect",
+    "permalink": "/docs/sensors/ect"
+  }
+}

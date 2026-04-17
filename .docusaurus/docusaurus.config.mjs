@@ -88,11 +88,11 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "ECU Conversion"
         },
         {
           "to": "/blog",
-          "label": "Blog",
+          "label": "Modifications",
           "position": "left"
         },
         {
@@ -110,7 +110,7 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "ECU Conversion",
               "to": "/docs/intro"
             }
           ]

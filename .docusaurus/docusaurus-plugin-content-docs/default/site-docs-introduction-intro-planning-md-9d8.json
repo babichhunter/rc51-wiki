@@ -1,0 +1,29 @@
+{
+  "id": "Introduction/project-planning",
+  "title": "Project Planning",
+  "description": "⚠️ Work in Progress",
+  "source": "@site/docs/Introduction/intro-planning.md",
+  "sourceDirName": "Introduction",
+  "slug": "/Introduction/project-planning",
+  "permalink": "/docs/Introduction/project-planning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Introduction/intro-planning.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "project-planning",
+    "title": "Project Planning",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Project Introduction",
+    "permalink": "/docs/Introduction/introduction"
+  },
+  "next": {
+    "title": "Project Scope",
+    "permalink": "/docs/Introduction/scope"
+  }
+}

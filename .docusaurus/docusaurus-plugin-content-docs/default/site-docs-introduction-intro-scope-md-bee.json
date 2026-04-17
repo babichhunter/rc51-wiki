@@ -1,0 +1,29 @@
+{
+  "id": "introduction/scope",
+  "title": "Project Scope",
+  "description": "⚠️ Work in Progress",
+  "source": "@site/docs/introduction/intro-scope.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/scope",
+  "permalink": "/docs/introduction/scope",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/introduction/intro-scope.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "scope",
+    "title": "Project Scope",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Project Planning",
+    "permalink": "/docs/introduction/project-planning"
+  },
+  "next": {
+    "title": "Project Resources",
+    "permalink": "/docs/introduction/project-resources"
+  }
+}

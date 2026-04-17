@@ -79,151 +79,49 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e1e'),
+    component: ComponentCreator('/docs', '63f'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '336'),
+        component: ComponentCreator('/docs', 'b02'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '0b2'),
+            component: ComponentCreator('/docs', '4b1'),
             routes: [
               {
-                path: '/docs/category/tutorial---basics',
-                component: ComponentCreator('/docs/category/tutorial---basics', '20e'),
+                path: '/docs/introduction/introduction',
+                component: ComponentCreator('/docs/introduction/introduction', '35b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/tutorial---extras',
-                component: ComponentCreator('/docs/category/tutorial---extras', '9ad'),
+                path: '/docs/Introduction/introduction',
+                component: ComponentCreator('/docs/Introduction/introduction', 'e69'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/ecu-setup/ft550-basics',
-                component: ComponentCreator('/docs/ecu-setup/ft550-basics', 'e51'),
+                path: '/docs/Introduction/project-planning',
+                component: ComponentCreator('/docs/Introduction/project-planning', 'e4b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/fueling/fuel-lines',
-                component: ComponentCreator('/docs/fueling/fuel-lines', '477'),
+                path: '/docs/Introduction/project-resources',
+                component: ComponentCreator('/docs/Introduction/project-resources', '981'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/fueling/injectors',
-                component: ComponentCreator('/docs/fueling/injectors', '4eb'),
+                path: '/docs/Introduction/scope',
+                component: ComponentCreator('/docs/Introduction/scope', 'fca'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/fueling/throttle-bodies',
-                component: ComponentCreator('/docs/fueling/throttle-bodies', '197'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/harness/harness-overview',
-                component: ComponentCreator('/docs/harness/harness-overview', '379'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/ignition/ignition-coils',
-                component: ComponentCreator('/docs/ignition/ignition-coils', 'c8f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', '89a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/intro/overview',
-                component: ComponentCreator('/docs/intro/overview', '002'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/sensors/ect',
-                component: ComponentCreator('/docs/sensors/ect', 'd86'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/sensors/o2-sensor',
-                component: ComponentCreator('/docs/sensors/o2-sensor', '6d7'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/sensors/tps',
-                component: ComponentCreator('/docs/sensors/tps', '491'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/troubleshooting/common-issues',
-                component: ComponentCreator('/docs/troubleshooting/common-issues', '944'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tuning/idle-tuning',
-                component: ComponentCreator('/docs/tuning/idle-tuning', 'c9e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/docs/tutorial-basics/congratulations', '93d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', 'c2a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-document', '920'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-page', '539'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', 'feb'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/docs/tutorial-basics/markdown-features', 'b05'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', '5a2'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', 'd21'),
+                path: '/docs/Introduction/software-tools',
+                component: ComponentCreator('/docs/Introduction/software-tools', '80e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
