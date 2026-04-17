@@ -83,7 +83,7 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'ecuConvertSidebar',
+            sidebarId: 'Introduction',
             position: 'left',
             label: 'ECU Conversion',
           },
