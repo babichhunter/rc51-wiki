@@ -47,6 +47,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
+          routeBasePath: 'ecu-conversion',
         },
         blog: {
           showReadingTime: true,
