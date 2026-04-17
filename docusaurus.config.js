@@ -75,15 +75,15 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'RC51',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'RC51 Site Logo',
+          src: 'img/rc51Logo.svg',
         },
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'ecuConvertSidebar',
             position: 'left',
             label: 'ECU Conversion',
           },
