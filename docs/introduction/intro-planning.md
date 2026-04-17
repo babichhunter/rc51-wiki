@@ -17,7 +17,7 @@ I selected a [FuelTech FT550](https://www.fueltech.net/products/ft550-efi-system
 
 Every ECU has its advantages and disadvantages. It helps to know the limitations of different systems and what would work best for your application.
 
-![FuelTech FT550 ECU](/img/ft550.png)
+![FuelTech FT550 ECU](/media/FT550_EN/T - FT550 - Dual - Dash 03 - USA.png)
 
 ## Supporting the ECU
 
