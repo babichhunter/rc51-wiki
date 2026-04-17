@@ -8,7 +8,7 @@ sidebar_position: 1
 > This wiki is actively being developed and refined. Information may change as new data, testing, and revisions are added.  
 > While every effort is made to ensure accuracy, always verify technical details independently before applying them to your own build.
 
-# Aftermarket ECU Conversion – Honda RC51
+# ECU Conversion – Honda RC51
 
 This wiki documents the process of converting a Honda RC51 to run on an aftermarket ECU, most specifically a FuelTech FT550 ECU. The goal is to provide a clear, technically sound guide for enthusiasts and builders who want more control, flexibility, and diagnostic capability than the OEM ECU allows.
 
