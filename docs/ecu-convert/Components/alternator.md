@@ -1,6 +1,6 @@
 ---
 id: oem-alternator
-title: RC51 OEM Alternator
+title: Alternator
 sidebar_position: 1
 ---
 
