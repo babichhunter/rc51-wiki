@@ -39,24 +39,24 @@ ECU configuration for the Haltech HT-010300 sensor is straightforward, as FuelTe
 4. Locate your **Engine Temp** input field.
 5. Select the predefined sensor parameter, **GM Temperature Sensor (USA)**.
 
-![Configuring the FT Manager tune with ECT Sensor parameters](/files/FTManager_ect-setup.png)
+![Configuring the FT Manager tune with ECT Sensor parameters](/media/Components/ECT/FTManager_ect-setup.png)
 *Configuring the FT Manager tune with ECT Sensor parameters*
 
 **Note:** The original HTML included an interactive chart comparing FuelTech and Haltech calibration tables. You can replace the placeholder below with an image export of that chart.
 
-![Coolant Temperature Sensor Calibration Chart](/files/ECT_Sensor_Calibration_Chart.png)
+![Coolant Temperature Sensor Calibration Chart](/media/Components/ECT/ECT_Sensor_Calibration_Chart.png)
 *Comparison of FuelTech default and Haltech provided calibration tables*
 
 ### Wiring Diagram
 
 The Haltech HT-010300 sensor uses a Delphi 2-Pin GM-style Coolant Temperature Connector with the following pinout: Pin A - Signal Ground, Pin B - Signal. Wiring is straightforward; refer to the [Haltech manual](/files/HT-010300.pdf) for additional details if needed. You can use any available white input.
 
-**Important:** Connect the housing ground wire as normal to ground the thermostat housing (part of the [Main Harness](/ecu-wiki/harness/custom/main-harness)); this should not be omitted.
+**Important:** Connect the housing ground wire as normal to ground the thermostat housing (part of the [Main Harness]; this should not be omitted.
 
-![Wiring Diagram ECT Sensor](/files/ECT%20(HT-010300)%20-%20WC.png)
+![Wiring Diagram ECT Sensor]
 *Wiring Diagram for ECT Sensor*
 
-The ECT sensor is part of the [Sensors sub-harness](/ecu-wiki/harness/sensor-harness). Refer to that documentation for electrical integration and wiring of the ECT.
+The ECT sensor is part of the [Sensors sub-harness]. Refer to that documentation for electrical integration and wiring of the ECT.
 
 ### Coolant Temperature Sensor Images
 
@@ -65,11 +65,11 @@ Explore this collection of high-resolution images showcasing the Haltech HT-0103
 ![Haltech GM Style ECT Sensor](/files/IMG_8084.JPEG)
 *Haltech GM Style ECT Sensor*
 
-![Haltech GM Style ECT Sensor Documentation](/files/IMG_8140.JPEG)
+![Haltech GM Style ECT Sensor Documentation]
 *Haltech GM Style ECT Sensor (Documentation)*
 
 ### Quick Links
 
 - [Haltech ECT Sensor](https://www.haltech.com/product/ht-010300-coolant-temp-sensor-small-thread/)
 - [Delphi 2-Pin GM-style Coolant Temperature Connector](https://www.haltech.com/product/ht-030411-plug-and-pins-only-delphi-2-pin-gm-style/)
-- [Haltech Manual](/files/HT-010300.pdf)
+- [Haltech Manual]
