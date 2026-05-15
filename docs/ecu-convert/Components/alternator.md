@@ -25,5 +25,5 @@ Pin assignment is not critical for the alternator, as it is **not polarity‑sen
 
 ### Image Gallery
 
-![Sealed End Leading to Crankcase](/img/alternator_1.JPEG)
+![Sealed End Leading to Crankcase](/media/Components/ALT/alternator_1.JPEG)
 *Sealed End Leading to Crankcase*
