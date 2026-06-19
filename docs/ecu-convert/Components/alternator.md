@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-This page provides detailed information about the OEM alternator used in the Honda RC51, including specifications, connector details, modifications, and visual references.
+# Alternator
 
----
+This page provides detailed information about the OEM alternator used in the Honda RC51, including specifications, connector details, modifications, and visual references.
 
 ## Alternator
 
