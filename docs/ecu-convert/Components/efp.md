@@ -47,7 +47,7 @@ ECU configuration for the FuelTech 0–150 PSI sensor is very straightforward. F
 ## Physical Placement
 
 Since there is no OEM sensor for fuel pressure, the sensor was added to the main fuel feed line. Refer to the  
-[Fuel Lines](/home) documentation for details.
+[Fuel Lines](/) documentation for details.
 
 ## Wiring Diagram
 
