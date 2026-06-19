@@ -1,3 +1,8 @@
+---
+sidebar_position: 5
+---
+
+
 # Throttle Position Sensor (TPS)
 
 This page provides detailed information about the Throttle Position Sensor (TPS) used in the Honda RC51, including its specifications, connector details, visual references, and technical documentation.

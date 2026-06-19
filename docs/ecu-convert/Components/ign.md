@@ -1,3 +1,8 @@
+---
+sidebar_position: 7
+---
+
+
 # Ignition Key Switch
 
 This guide provides detailed information about the ignition switch (IGN) used in the Honda RC51 ECU build, including its functionality, wiring, and connector details.

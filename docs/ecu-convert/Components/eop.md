@@ -1,3 +1,8 @@
+---
+sidebar_position: 10
+---
+
+
 # Oil Pressure Sensor
 
 This page provides detailed information about the FuelTech 0–150 PSI Oil Pressure Sensor used in the Honda RC51 custom ECU build, including its specifications, connector details, wiring, and visual references.

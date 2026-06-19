@@ -1,3 +1,8 @@
+---
+sidebar_position: 4
+---
+
+
 # Driveshaft RPM Sensor
 
 This guide details the Driveshaft RPM sensor, also known as the vehicle speed sensor, used in my Honda RC51 custom ECU build, including its specifications, connector details, wiring, ECU setup in FT Manager, and visual references.

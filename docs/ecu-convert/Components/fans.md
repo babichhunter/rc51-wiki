@@ -1,3 +1,7 @@
+---
+sidebar_position: 11
+---
+
 # SPAL Fans
 
 This guide details the SPAL fan upgrade for my Honda RC51 custom ECU build, including specifications, connector details, and installation notes.

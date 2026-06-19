@@ -1,14 +1,12 @@
 ---
-id: oem-alternator
-title: Alternator
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 This page provides detailed information about the OEM alternator used in the Honda RC51, including specifications, connector details, modifications, and visual references.
 
 ---
 
-## Alternator Overview
+## Alternator
 
 The Honda RC51 (RVT1000R) OEM alternator requires minimal modification and is optional for most builds.
 

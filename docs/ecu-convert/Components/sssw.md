@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Sidestand Switch
 
 This guide provides detailed information about the sidestand switch (SSSW) used in the Honda RC51 ECU build, including its functionality, wiring, and connector details.
