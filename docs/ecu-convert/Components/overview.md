@@ -1,3 +1,6 @@
+title: Overview
+sidebar_position: 1
+
 # Overview
 
 This section outlines the critical sensors and components required for the FuelTech FT550 ECU to operate properly—and for the motorcycle itself. It includes both aftermarket upgrades and OEM component adaptations, along with setup notes for FT Manager and any wiring modifications. Throughout this wiki, most connections were converted to Deutsch DT or DTM whenever possible. OEM connectors were also sourced so you can reuse them if desired.
