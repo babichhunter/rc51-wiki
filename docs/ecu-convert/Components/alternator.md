@@ -6,8 +6,7 @@ sidebar_position: 2
 
 This page provides detailed information about the OEM alternator used in the Honda RC51, including specifications, connector details, modifications, and visual references.
 
-## Alternator
-
+## Overview
 The Honda RC51 (RVT1000R) OEM alternator requires minimal modification and is optional for most builds.
 
 In my case, the sheathing on the alternator leads was significantly worn and tattered. To address this, I wrapped the leads with **Raychem DR-25** heat-shrink tubing and sealed the ends with **Raychem SCL** encapsulant for improved durability and environmental protection.
