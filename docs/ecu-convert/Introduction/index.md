@@ -1,6 +1,6 @@
 ---
 id: Introduction
-title: Introduction - ECU Conversion
+title: Introduction
 sidebar_position: 2
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: Components
-title: Components - ECU Conversion
+title: Components
 sidebar_position: 3
 ---
 
