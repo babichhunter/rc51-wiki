@@ -1,4 +1,4 @@
-# FuelTech 0–150 PSI Pressure Sensor Summary
+# Fuel Pressure Sensor
 
 This page provides detailed information about the FuelTech 0–150 PSI Pressure Sensor used in the Honda RC51 custom ECU build, including its specifications, connector details, wiring, and visual references.
 

@@ -1,5 +1,5 @@
 ---
-title: ECT Sensor Summary
+title: ECT Sensor
 description: Detailed overview of the Haltech HT-010300 Coolant Temperature Sensor, including specs, wiring, and ECU setup for Honda RC51 custom ECU.
 ---
 
