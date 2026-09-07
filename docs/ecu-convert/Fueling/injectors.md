@@ -51,7 +51,7 @@ sidebar_position: 1
 | Wire Gauge | 22 AWG (for individual injector) |
 
 
-        Note: Polarity is not critical for the injectors, as they are simple solenoids, but always verify pin assignments with the RC51 service manual to ensure proper connection to the sub-harness. See the [FI Sub-Harness](/ecu-wiki/custom/fi-sub-harness) page for a wiring diagram. The 22 AWG gauge for the injectors is sufficient for splices from the main +12V line.
+        Note: Polarity is not critical for the injectors, as they are simple solenoids, but always verify pin assignments with the RC51 service manual to ensure proper connection to the sub-harness. See the [FI Sub-Harness](#) page for a wiring diagram. The 22 AWG gauge for the injectors is sufficient for splices from the main +12V line.
 
 
 ## Sourcing the Injector Connector
