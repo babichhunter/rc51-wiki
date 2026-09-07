@@ -81,9 +81,9 @@ sidebar_position: 1
         Below are the results of the flow test before and after cleaning, along with the Data Match report:
 
 
-- [Flow Testing Results](/media/Components/Injectors/Inj Flow Data Sheet.pdf)
+- [Flow Testing Results](/media/Components/Injectors/Inj_Flow_DS.pdf)
 
-- [Data Match Results](/media/Components/Injectors/Inj Slope_Offset_Data.pdf)
+- [Data Match Results](/media/Components/Injectors/InjSlope_Offset_Data.pdf)
 
 
         OEM Denso injectors are rated at 310cc/min (but test around 305cc/min) and have an average dead time of 1ms.
