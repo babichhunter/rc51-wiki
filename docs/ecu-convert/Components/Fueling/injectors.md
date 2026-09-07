@@ -81,9 +81,9 @@ sidebar_position: 1
         Below are the results of the flow test before and after cleaning, along with the Data Match report:
 
 
-- [Flow Testing Results](/files/Inj Flow Data Sheet.pdf)
+- [Flow Testing Results](/media/Components/Injectors/Inj Flow Data Sheet.pdf)
 
-- [Data Match Results](/files/Inj Slope_Offset_Data.pdf)
+- [Data Match Results](/media/Components/Injectors/Inj Slope_Offset_Data.pdf)
 
 
         OEM Denso injectors are rated at 310cc/min (but test around 305cc/min) and have an average dead time of 1ms.
@@ -152,7 +152,7 @@ Voltage (V) | Dead Time (ms)
 I only received a single entry for this parameter, 996 ms @ 13.5V. We will see if I run into any issues down the road, especially at startup or high RPM.
 
 
-            ![Injector Configuration](/files/FTManager_InjConfig.png)[](/files/FTManager_InjConfig.png)
+            ![Injector Configuration](/media/Components/Injectors/FTManager_InjConfig.png)[](/media/Components/Injectors/FTManager_InjConfig.png)
 
 *Configuring the FT Manager tune with injector data*
 
@@ -163,37 +163,37 @@ I only received a single entry for this parameter, 996 ms @ 13.5V. We will see i
         Below is a collection of images showing the OEM fuel injectors used in the Honda RC51. The set includes detailed views of the injector body, electrical connector (pin and seal sides), and assembled injector units with connectors.
 
 
-            ![OEM Injector Connector - Pin Side](/files/Inj_cntr_pinside.jpg)[](/files/Inj_cntr_pinside.jpg)
+            ![OEM Injector Connector - Pin Side](/media/Components/Injectors/Inj_cntr_pinside.jpg)[](/media/Components/Injectors/Inj_cntr_pinside.jpg)
 
 *OEM Injector Connector – Pin Side*
 
 
-            ![OEM Injector Connector - Seal Side](/files/Inj_cntr_sealside.jpg)[](/files/Inj_cntr_sealside.jpg)
+            ![OEM Injector Connector - Seal Side](/media/Components/Injectors/Inj_cntr_sealside.jpg)[](/media/Components/Injectors/Inj_cntr_sealside.jpg)
 
 *OEM Injector Connector – Seal Side*
 
 
-            ![OEM Fuel Injector](/files/Inj_unit_cntr-1.JPEG)[](/files/Inj_unit_cntr-1.JPEG)
+            ![OEM Fuel Injector](/media/Components/Injectors/Inj_unit_cntr-1.JPEG)[](/media/Components/Injectors/Inj_unit_cntr-1.JPEG)
 
 *OEM Fuel Injector*
 
 
-            ![OEM Fuel Injector](/files/Inj_unit_cntr-2.JPEG)[](/files/Inj_unit_cntr-2.JPEG)
+            ![OEM Fuel Injector](/media/Components/Injectors/Inj_unit_cntr-2.JPEG)[](/media/Components/Injectors/Inj_unit_cntr-2.JPEG)
 
 *OEM Fuel Injector*
 
 
-            ![OEM Fuel Injector with Connector](/files/inj_wc_1.JPEG)[](/files/inj_wc_1.JPEG)
+            ![OEM Fuel Injector with Connector](/media/Components/Injectors/inj_wc_1.JPEG)[](/media/Components/Injectors/inj_wc_1.JPEG)
 
 *OEM Fuel Injector with Connector*
 
 
-            ![OEM Fuel Injector with Connector](/files/inj_wc_2.JPEG)[](/files/inj_wc_2.JPEG)
+            ![OEM Fuel Injector with Connector](/media/Components/Injectors/inj_wc_2.JPEG)[](/media/Components/Injectors/inj_wc_2.JPEG)
 
 *OEM Fuel Injector with Connector*
 
 
-            ![OEM Fuel Injector with Connector](/files/inj_wc_3.JPEG)[](/files/inj_wc_3.JPEG)
+            ![OEM Fuel Injector with Connector](/media/Components/Injectors/inj_wc_3.JPEG)[](/media/Components/Injectors/inj_wc_3.JPEG)
 
 *OEM Fuel Injector with Connector*
 
@@ -201,4 +201,4 @@ I only received a single entry for this parameter, 996 ms @ 13.5V. We will see i
 ## Wiring Diagram
 
 
-        Refer to the [FISH](/ecu-wiki/custom/fi-sub-harness) documentation for wiring of the fuel injectors.
+        Refer to the [FISH] documentation for wiring of the fuel injectors.
