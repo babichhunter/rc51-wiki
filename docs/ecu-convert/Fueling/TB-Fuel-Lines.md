@@ -23,16 +23,17 @@ Explore this collection of high-resolution images showcasing the Honda RC51 thro
 
 ### Throttle Body Fuel Rails
 
-[![Throttle Body Fuel Rails](/files/tb-1.JPEG)](/files/tb-1.JPEG)
+[![Throttle Body Fuel Rails](/media/Components/Throttle Body/tb-1.JPEG)](/media/Components/Throttle Body/tb-1.JPEG)
 
 ### Throttle Body Fuel Rail O-Rings
 
-[![Throttle Body Fuel Rail O-Rings](/files/tb-fline-orings.JPEG)](/files/tb-fline-orings.JPEG)
+[![Throttle Body Fuel Rail O-Rings](/media/Components/Throttle Body/tb-fline-orings.JPEG)](/media/Components/Throttle Body/tb-fline-orings.JPEG)
 
 ### Fuel Line Banjo Bolt
 
-[![Fuel Line Banjo Bolt](/files/tb-banjo.JPEG)](/files/tb-banjo.JPEG)
+[![Fuel Line Banjo Bolt](/media/Components/Throttle Body/tb-banjo.JPEG)](/media/Components/Throttle Body/tb-banjo.JPEG)
 
 ### Fuel Rail Regulator
 
-[![Fuel Rail Regulator](/files/tb-regulator.JPEG)](/files/tb-regulator.JPEG)
+[![Fuel Rail Regulator](/media/Components/Throttle Body/tb-regulator.JPEG)](/media/Components/Throttle Body/tb-regulator.JPEG)
+S
