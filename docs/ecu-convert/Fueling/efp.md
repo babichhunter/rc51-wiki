@@ -1,7 +1,7 @@
 ---
-sidebar_position: 9
+title: Fuel Pressure Sensor
+sidebar_position: 2
 ---
-
 
 # Fuel Pressure Sensor
 
